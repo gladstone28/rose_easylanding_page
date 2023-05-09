@@ -1,0 +1,9 @@
+.header {
+    &__logo {}
+}
+
+&__menu {
+    >span {
+        display: block;
+    }
+}
